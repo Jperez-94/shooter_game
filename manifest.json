@@ -1,0 +1,24 @@
+{
+  "name": "Shooter Game",
+  "short_name": "Shooter",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Basic shooter game to introduce a programmer into de Web developper world.",
+  "icons": [{
+    "src": "/assets/img/player_shot_150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }, {
+    "src": "/assets/img/player_shot_150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "maskable"
+    }, {
+    "src": "/assets/img/player_shot_520.png",
+      "sizes": "520x520",
+      "type": "image/png"
+    }],
+  "orientation": "portrait",
+  "theme_color": "#fafafa"
+}
